@@ -1,0 +1,8 @@
+D:\C# for Unity\random_game_generator\random_game_generator\bin\Debug\random_game_generator.exe.config
+D:\C# for Unity\random_game_generator\random_game_generator\bin\Debug\random_game_generator.exe
+D:\C# for Unity\random_game_generator\random_game_generator\bin\Debug\random_game_generator.pdb
+D:\C# for Unity\random_game_generator\random_game_generator\obj\Debug\random_game_generator.csproj.AssemblyReference.cache
+D:\C# for Unity\random_game_generator\random_game_generator\obj\Debug\random_game_generator.csproj.SuggestedBindingRedirects.cache
+D:\C# for Unity\random_game_generator\random_game_generator\obj\Debug\random_game_generator.csproj.CoreCompileInputs.cache
+D:\C# for Unity\random_game_generator\random_game_generator\obj\Debug\random_game_generator.exe
+D:\C# for Unity\random_game_generator\random_game_generator\obj\Debug\random_game_generator.pdb
